@@ -1,0 +1,42 @@
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.deps.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\ref\CSCST.BusinessEntities.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.AssemblyInfo.cs
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\ref\CSCST.BusinessEntities.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.runtimeconfig.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.genruntimeconfig.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.deps.json
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.runtimeconfig.json
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\ref\CSCST.BusinessEntities.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.AssemblyInfoInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.AssemblyInfo.cs
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.csproj.CoreCompileInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\ref\CSCST.BusinessEntities.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.genruntimeconfig.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.csproj.AssemblyReference.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.deps.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.runtimeconfig.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\ref\CSCST.BusinessEntities.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\bin\Debug\net6.0\CSCST.BusinessEntities.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.csproj.AssemblyReference.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.AssemblyInfoInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.AssemblyInfo.cs
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.csproj.CoreCompileInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\ref\CSCST.BusinessEntities.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BusinessEntities\obj\Debug\net6.0\CSCST.BusinessEntities.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.dll
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.dll
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache

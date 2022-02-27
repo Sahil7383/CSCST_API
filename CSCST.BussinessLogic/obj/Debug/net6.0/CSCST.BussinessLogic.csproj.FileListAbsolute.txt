@@ -1,0 +1,63 @@
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.deps.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\ref\CSCST.BussinessLogic.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BusinessEntities.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.Common.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BusinessEntities.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.Common.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.AssemblyInfo.cs
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.CopyComplete
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\ref\CSCST.BussinessLogic.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.runtimeconfig.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.genruntimeconfig.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.deps.json
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.runtimeconfig.json
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\ref\CSCST.BussinessLogic.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BusinessEntities.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.Common.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\DataAccess.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BusinessEntities.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.Common.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\DataAccess.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.AssemblyReference.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.AssemblyInfoInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.AssemblyInfo.cs
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.CoreCompileInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.CopyComplete
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\ref\CSCST.BussinessLogic.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.genruntimeconfig.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.deps.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.runtimeconfig.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\ref\CSCST.BussinessLogic.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BussinessLogic.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BusinessEntities.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.Common.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\DataAccess.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.BusinessEntities.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\CSCST.Common.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\bin\Debug\net6.0\DataAccess.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.AssemblyReference.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.AssemblyInfoInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.AssemblyInfo.cs
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.CoreCompileInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.csproj.CopyComplete
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\ref\CSCST.BussinessLogic.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.BussinessLogic\obj\Debug\net6.0\CSCST.BussinessLogic.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02bfbe1e-8191-474b-9592-e665a7655171": {
+      "ProjectGuid": "02bfbe1e-8191-474b-9592-e665a7655171",
+      "DisplayName": "CSCST",
+      "ColorIndex": 0
+    },
+    "d31ce4cb-5a4f-439f-a023-7e9118936641": {
+      "ProjectGuid": "d31ce4cb-5a4f-439f-a023-7e9118936641",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "eb867e6b-51cf-4d98-a709-f50b9e78bc86": {
+      "ProjectGuid": "eb867e6b-51cf-4d98-a709-f50b9e78bc86",
+      "DisplayName": "CSCST.BussinessLogic",
+      "ColorIndex": 2
+    },
+    "c2de9b44-9649-4d63-a937-7d68bd3b4a8a": {
+      "ProjectGuid": "c2de9b44-9649-4d63-a937-7d68bd3b4a8a",
+      "DisplayName": "CSCST.BusinessEntities",
+      "ColorIndex": 3
+    },
+    "7ba0597c-3b21-4a43-bc54-173f709cc755": {
+      "ProjectGuid": "7ba0597c-3b21-4a43-bc54-173f709cc755",
+      "DisplayName": "CSCST.Common",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

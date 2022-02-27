@@ -1,0 +1,42 @@
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.deps.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\bin\Debug\net6.0\ref\CSCST.Common.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.AssemblyInfo.cs
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\ref\CSCST.Common.dll
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.pdb
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.runtimeconfig.json
+C:\Users\admin\Documents\Dotnet repos\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.genruntimeconfig.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.deps.json
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.runtimeconfig.json
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\ref\CSCST.Common.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.csproj.AssemblyReference.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.AssemblyInfoInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.AssemblyInfo.cs
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.csproj.CoreCompileInputs.cache
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\ref\CSCST.Common.dll
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.pdb
+H:\Gateway Project\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.genruntimeconfig.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.deps.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.runtimeconfig.json
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\ref\CSCST.Common.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\bin\Debug\net6.0\CSCST.Common.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.csproj.AssemblyReference.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.GeneratedMSBuildEditorConfig.editorconfig
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.AssemblyInfoInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.AssemblyInfo.cs
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.csproj.CoreCompileInputs.cache
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\ref\CSCST.Common.dll
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.pdb
+I:\Final CSCST Web Api\CSCST Web Api\CSCST\CSCST.Common\obj\Debug\net6.0\CSCST.Common.genruntimeconfig.cache
